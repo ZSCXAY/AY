@@ -1,0 +1,8 @@
+DDOS攻击：
+1在zero termux中输入pkg install python python2 git
+2再输入git clone
+https://github.com/pembriahmad/DDOS获取DDOS
+3再输入cd DDOS进入DDOS目录。
+4输入python2 ddos.py运行DDOS
+5输入ID：
+6端口扫描参数0~65535之间
